@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DynamicLua</id>
+    <version>1.1.2.0</version>
+    <title>DynamicLua</title>
+    <authors>Niklas Rother</authors>
+    <owners>Niklas Rother</owners>
+    <licenseUrl>https://github.com/nrother/dynamiclua/blob/master/DynamicLua/LICENSE_Apache.txt</licenseUrl>
+    <projectUrl>https://github.com/nrother/dynamiclua</projectUrl>
+    <iconUrl>https://raw.github.com/nrother/dynamiclua/master/dynamiclua_logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wrapper for NLua, making access to Lua more idomatic from .NET. Heavily using the "dynamic" keyword.</description>
+    <summary>DynamicLua is a wrapper for NLua heavily using the .NET 4 'dynamic' Feature.</summary>
+    <copyright>Copyright © Niklas Rother 2011-2014</copyright>
+    <tags>dynamiclua dynamic lua</tags>
+    <references>
+      <reference file="DynamicLua.dll" />
+    </references>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\bin\Debug\LuaInter.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\bin\Debug\LuaInter.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\bin\Debug\LuaInter.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\bin\Debug\DynamicLua.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LuaInter\LuaInter\obj\Debug\LuaInter.Form1.resources
